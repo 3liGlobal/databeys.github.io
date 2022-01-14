@@ -4611,6 +4611,17 @@ sition: relative;
   grid-template-rows: auto;
 }
 
+.grid-3-columnszahid {
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 50px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
 .h2-bigger {
   font-size: 25px;
   line-height: 44px;
