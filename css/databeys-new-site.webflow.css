@@ -5680,6 +5680,9 @@ sition: relative;
     grid-column-gap: 30px;
   }
 
+  .grid-3-columnszahid {
+    grid-column-gap: 30px;
+  }
   .h2-bigger {
     font-size: 36px;
     line-height: 38px;
@@ -5899,6 +5902,11 @@ sition: relative;
     grid-template-columns: 1fr 1fr;
   }
 
+  .grid-3-columnszahid {
+    grid-row-gap: 30px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+  }
   .grid-2-columns {
     grid-row-gap: 50px;
     -ms-grid-columns: 1fr;
@@ -6172,6 +6180,11 @@ sition: relative;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
+  .grid-3-columnszahid {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
+
 
   .h2-bigger {
     font-size: 30px;
