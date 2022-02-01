@@ -3,92 +3,187 @@
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 	<loc>https://www.databeys.com/</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.databeys.com/checkout</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/pricing</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/about_us</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<loc>https://www.databeys.com/about-us</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/what_we_do</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<loc>https://www.databeys.com/what-we-do</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/blog</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
-	<priority>1.0</priority>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/say-hi</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/crm</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/marketing</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/cloud_services</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<loc>https://www.databeys.com/cloud-services</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/customer_support</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<loc>https://www.databeys.com/customer-support</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/hosted_emails</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<loc>https://www.databeys.com/hosted-emails</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/web-development</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/blog/how-to-convert-more-leads-with-sales-calls</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
-	<priority>1.0</priority>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/blog/how-crm-helps-increase-customer-retention-avoid</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
-	<priority>1.0</priority>
+	<loc>https://www.databeys.com/blog/how-crm-helps-increase-customer-retention</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
 	<loc>https://www.databeys.com/blog/3-email-marketing-mistakes-you-need-to-avoid</loc>
-	<lastmod>2021-12-22T06:07:55+01:00</lastmod>
-	<priority>1.0</priority>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
+	<priority>0.6</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/blog/how-to-make-salespeople-fall-in-love-with-crm</loc>
-	<lastmod>2021-12-22T06:07:58+01:00</lastmod>
-	<priority>1.0</priority>
+	<loc>https://www.databeys.com/freshworks</loc>
+	<lastmod>2022-02-01T08:10:42+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://www.databeys.com/blog/how-to-optimize-your-customer-service-with-crm</loc>
-	<lastmod>2021-12-22T06:07:58+01:00</lastmod>
-	<priority>1.0</priority>
+	<loc>https://www.databeys.com/blog/how-to-use-crm-data-to-coach-your-sales-team-towards-success/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/author/fakhiha-rameen/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/what-is-a-cloud-services-provider-definition-and-benefits/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/what-is-email-hosting-definition-benefits/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/why-does-your-marketing-agency-need-a-crm-software/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/category/crm/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/what-is-customer-churn-and-how-crm-software-helps-prevent-it/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/category/marketing/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/5-digital-marketing-tactics-that-will-get-your-brand-noticed/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/4-reasons-why-crm-advertising-is-a-must-have-for-your-business/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/3-ways-digital-marketing-helps-build-a-loyal-customer-base/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/how-to-optimize-your-customer-service-with-crm/</loc>
+	<lastmod>2022-02-01T08:10:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshdesk</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshsales</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshsalessuite</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshservice</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshteam</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/freshmarketer</loc>
+	<lastmod>2022-02-01T08:10:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/blog/how-to-make-salespeople-fall-in-love-with-crm/</loc>
+	<lastmod>2022-02-01T08:10:56+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://www.databeys.com/freshworks/index</loc>
+	<lastmod>2022-02-01T08:11:00+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 </urlset>
