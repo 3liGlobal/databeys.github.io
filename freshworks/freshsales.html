@@ -27,6 +27,32 @@
     <link href="../images/webclip.svg" rel="apple-touch-icon">
     <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
     <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+    <!--New Form Script is added-->
+    <script>
+      window.addEventListener("message",function(r){if(location.origin!==r.origin){for(var i=["https://www.freshworks.com","https://freshdesk.com","https://freshservice.com"],t=!1,e=0;e<i.length;e++)if(r.origin.indexOf(i[e])>-1){t=!0;break}if(t&&r.data&&function(r){try{JSON.parse(r)}catch(r){return!1}return!0}(r.data)){var n=JSON.parse(r.data);n.signup_finished&&(window.location.href=n.url.trim())}}},!1);
+    </script>
+    <style>
+      .fw-ctner {
+        position: relative;
+        overflow: hidden;
+        min-height: 800px;
+      }
+       
+      .fw-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+       
+      @media only screen and (min-width: 991px) {
+        .fw-ctner {
+          min-height: 720px;
+        }
+      }
+      </style>
   </head>
 <body>
   <!-- Google Tag Manager (noscript) -->
@@ -382,18 +408,11 @@
               </p>
            </div>
           </div>
-          <div class="w-form">
-            <form id="email-form" name="email-form" data-name="Email Form" class="form-grid" onsubmit="myFunction()">
-              <label>Name*</label><input type="text" class="w-input" maxlength="256" name="name" data-name="Name" style="opacity:100" placeholder="How should we address you?" data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390902" id="First name" required="">
-              <label>Email*</label><input type="email" class="w-input" maxlength="256" name="Email" data-name="Email" style="opacity:100" placeholder="Let's start a chain" data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390904" id="Email" required="">
-              <label>Phone*</label><input type="tel" class="w-input" maxlength="256" name="Phone" data-name="Phone" style="opacity:100" placeholder="So nothing get lost in translation" data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390905" id="Alternate contact number" required="">
-              <label>Company Website</label><input type="text" pattern="^(?!-)[A-Za-z0-9-]+([\\-\\.]{1}[a-z0-9]+)*[\\-\\.][A-Za-z]{2,6}$" class="w-input" maxlength="256" name="Company Website" data-name="Company Website" style="opacity:100" placeholder="We only need the domain name" data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390906" id="Website">
-              <label>Comment</label><textarea class="area w-input" maxlength="5000" name="Project" data-name="Project" style="opacity:100" placeholder="Growth starts here, how can we help?" data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390907" id="Project"></textarea>
-              <div data-w-id="2c97a1d5-ebf0-345b-f09d-59bb48390908" style="opacity:100"><input type="submit" value="Fire Away!" data-wait="Please wait..." class="button yellow full w-button"></div>
-            </form>
-           <div class="success-message w-form-fail" id="parentSuccessMessage">
-              <div id="successMessage"></div>
-            </div>
+          <!--New form has been added to this one and replaced the older one-->
+          <div class="fw-ctner">
+            <iframe class="fw-iframe" gesture="media" allow="encrypted-media" frameborder="0" allowfullscreen 
+            src="https://www.freshworks.com/crm/signup/partners-external-iframe-signup/">
+            </iframe>
           </div>
         </div>
       </div>
