@@ -3330,6 +3330,10 @@ figcaption {
   margin-top: 15px;
 }
 
+.margin-5px{
+  margin-top: 5px;
+}
+
 .display-1 {
   margin-top: 0px;
   margin-bottom: 0px;
@@ -5040,6 +5044,7 @@ sition: relative;
 .footer {
   padding: 80px 5% 30px;
   background-color: #000;
+
 }
 
 .grid-4-columns {
@@ -5054,6 +5059,20 @@ sition: relative;
   grid-template-rows: auto;
 }
 
+.grid-4-columns-fa{
+  display: -ms-grid;
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 40px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr 1fr 1.1fr;
+  grid-template-columns: 1fr 1fr 1fr 1.1fr;
+  -ms-grid-rows: auto;
+  grid-template-rows: auto;
+}
+.grid-4-columns-fa {
+  grid-column-gap: 30px;
+}
 .footer-column {
   display: -webkit-box;
   display: -webkit-flex;
@@ -5723,6 +5742,11 @@ sition: relative;
     -ms-grid-columns: 1fr 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr;
   }
+  .grid-4-columns-fa {
+    grid-row-gap: 40px;
+    -ms-grid-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 
   .copyright-flex {
     padding-left: 0px;
@@ -6295,7 +6319,11 @@ sition: relative;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
   }
-
+  .grid-4-columns-fa {
+    grid-row-gap: 40px;
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+  }
   .copyright-flex {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -6525,4 +6553,18 @@ sition: relative;
   font-weight: 500;
   font-style: normal;
   font-display: swap;
+}
+
+.margin-300px-container{
+  margin-left: 200px;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.margin-250px-container{
+  margin-left: 200px;
+  width: 100%;
 }
